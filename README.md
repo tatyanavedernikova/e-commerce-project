@@ -1,5 +1,5 @@
 ## e-commerce-project
-Проект выплнен с помощью Yupyter notebook. Библиотеки, которые использовались для анализа:
+Проект выплнен с помощью Yupyter notebook. Данные, которые использовались для анализа:
  - olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
  - olist_orders_dataset.csv —  таблица заказов
  - olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
